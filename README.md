@@ -13,3 +13,5 @@
  ![Screenshot of a menu from Pokemon Red](https://i.imgur.com/PyPCyam.png)
  
  An easy example, and the only one I care to provide, is this menu. While normally it looks a bit misshapen with a strange empty area above the text, the display's shadow makes it look more natural.
+
+The standard settings are tuned for use with the palette given in recommended_palette.txt, stray from it at your own peril.

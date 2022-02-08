@@ -12,4 +12,4 @@
  
  ![Screenshot of a menu from Pokemon Red](https://i.imgur.com/PyPCyam.png)
  
- This menu normally looks a bit misshapen, having a strange amount of space between the top of the box and the text. But having the display's shadow helps make it look more natural.
+ An easy example, and the only one I care to provide, is this menu. While normally it looks a bit misshapen with a strange empty area above the text, the display's shadow makes it look more natural.

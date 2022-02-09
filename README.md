@@ -14,4 +14,5 @@
  
  An easy example, and the only one I care to provide, is this menu. While normally it looks a bit misshapen with a strange empty area above the text, the display's shadow makes it look more natural.
 
-The standard settings are tuned for use with the palette given in recommended_palette.txt, stray from it at your own peril.
+[This video](https://www.youtube.com/watch?v=Z1AjFq9Bbvw) was used as a reference for adjusting the settings. However, even with such a close 1080p view of the gameboy's screen, the reflective and somewhat holographic nature of the display means the exact colors involved are a little subjective. Tuning will be your friend.
+The standard settings were made with the palette given in recommended_palette.txt, stray from that combination at your own peril.
